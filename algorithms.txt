@@ -3,3 +3,5 @@ This is usually represented by a shorter, fixed-length value or key that represe
 The most popular use for hashing is the implementation of hash tables.
 Hashing algorithms are just as abundant as encryption algorithms, but there are a few that are used more often than others.
 Some common hashing algorithms include MD5, SHA-1, SHA-2, NTLM, and LANMAN. MD5: This is the fifth version of the Message Digest algorithm. MD5 creates 128-bit outputs.
+A linked list is a sequence of data structures, which are connected together via links. Linked List is a sequence of links which contains items.
+Each link contains a connection to another link. Linked list is the second most-used data structure after array.
