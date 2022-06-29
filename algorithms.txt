@@ -1,3 +1,5 @@
 Hashing is the process of transforming any given key or a string of characters into another value. 
 This is usually represented by a shorter, fixed-length value or key that represents and makes it easier to find or employ the original string. 
 The most popular use for hashing is the implementation of hash tables.
+Hashing algorithms are just as abundant as encryption algorithms, but there are a few that are used more often than others.
+Some common hashing algorithms include MD5, SHA-1, SHA-2, NTLM, and LANMAN. MD5: This is the fifth version of the Message Digest algorithm. MD5 creates 128-bit outputs.
